@@ -26,14 +26,15 @@ Aplikasi ini adalah program berbasis **PHP** yang dirancang untuk **menghitung b
 * **JSON:** Digunakan untuk menyimpan data hasil perhitungan.
 
 ## 🚀 Cara Menjalankan Aplikasi
-1.  **Web Server:** Pastikan Anda sudah menginstal dan menjalankan **XAMPP / LAMP / WAMP** (web server yang dilengkapi PHP).
-2.  **Penempatan Folder:** Simpan folder project ini ke dalam direktori *root* web server Anda:
-    * Windows: `C:\xampp\htdocs\parkir-mall`
-    * Linux/Mac: `/var/www/html/parkir-mall`
-3.  **Akses Browser:** Jalankan **Apache** pada XAMPP, lalu akses aplikasi melalui browser:
-    ```
-    http://localhost/parkir-mall-php/
-    ```
+1. **Web Server:** Pastikan Anda sudah menginstal dan menjalankan **XAMPP / LAMP / WAMP** (web server yang dilengkapi PHP).
+2. **Setup Database:**
+   * Cari file **`Dump20251110.sql`** di dalam folder **`Parkir-mall-DB`** di repositori ini.
+   * Buat *database* kosong baru di MySQL Workbench atau phpMyAdmin, lalu **impor** *file* `.sql` tersebut.
+3. **Penempatan Kode:**
+   * Simpan folder project ini ke dalam direktori *root* web server Anda:
+     * Windows: `C:\xampp\htdocs\parkir-mall`
+     * Linux/Mac: `/var/www/html/parkir-mall`
+4. **Akses Browser:** Jalankan **Apache** pada XAMPP, lalu akses aplikasi melalui browser:
 
 ## 🖼️ Contoh Penggunaan
 1.  Masukkan data kendaraan (Plat Nomor, Jenis Kendaraan).
