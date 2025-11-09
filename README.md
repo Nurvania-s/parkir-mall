@@ -28,8 +28,8 @@ Aplikasi ini adalah program berbasis **PHP** yang dirancang untuk **menghitung b
 ## 🚀 Cara Menjalankan Aplikasi
 1.  **Web Server:** Pastikan Anda sudah menginstal dan menjalankan **XAMPP / LAMP / WAMP** (web server yang dilengkapi PHP).
 2.  **Penempatan Folder:** Simpan folder project ini ke dalam direktori *root* web server Anda:
-    * Windows: `C:\xampp\htdocs\parkir-mall-php`
-    * Linux/Mac: `/var/www/html/parkir-mall-php`
+    * Windows: `C:\xampp\htdocs\parkir-mall`
+    * Linux/Mac: `/var/www/html/parkir-mall`
 3.  **Akses Browser:** Jalankan **Apache** pada XAMPP, lalu akses aplikasi melalui browser:
     ```
     http://localhost/parkir-mall-php/
