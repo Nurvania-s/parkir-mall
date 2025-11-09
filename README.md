@@ -1,4 +1,7 @@
 # 🅿️ Aplikasi Hitung Biaya Parkir Mall (PHP & Bootstrap)
+[![GitHub top language](https://img.shields.io/github/languages/top/Nurvania-s/parkir-mall-php)](https://github.com/Nurvania-s/parkir-mall-php)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Status: Functional](https://img.shields.io/badge/Status-Functional-brightgreen)]()
 
 ## 📝 Deskripsi Proyek
 Aplikasi ini adalah program berbasis **PHP** yang dirancang untuk **menghitung biaya parkir** kendaraan secara otomatis di sebuah lingkungan Mall. Proyek ini mendemonstrasikan kemampuan dalam logika perhitungan kompleks, penanganan *form input* data melalui web, dan penggunaan **JSON** untuk penyimpanan data hasil perhitungan.
