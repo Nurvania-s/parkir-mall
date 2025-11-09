@@ -1,5 +1,5 @@
 # 🅿️ Aplikasi Hitung Biaya Parkir Mall (PHP & Bootstrap)
-[![GitHub top language](https://img.shields.io/github/languages/top/Nurvania-s/parkir-mall-php)](https://github.com/Nurvania-s/parkir-mall-php)
+[![GitHub top language](https://img.shields.io/github/languages/top/Nurvania-s/**parkir-mall**)](https://github.com/Nurvania-s/parkir-mall)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Functional](https://img.shields.io/badge/Status-Functional-brightgreen)]()
 
